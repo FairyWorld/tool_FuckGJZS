@@ -1,5 +1,5 @@
-Configuration=2025091617
-Magisk_Warehouse_version=2025091617
+Configuration=2026031916
+Magisk_Warehouse_version=2026031916
 Show_Compatibility_Mode=1
 MIUI=0
 
@@ -453,12 +453,12 @@ time='2023年11月24号'
 HTTPCanaryCA_To_System)
 id='HTTPCanaryCA_To_System'
 name='安装HTTPCanary证书到系统'
-version='v3'
-versionCode='11'
+version='v3.5'
+versionCode='12'
 author='酷安 @阿猫2233 @People11'
-description='兼容安卓11 - 15'
-time='2025年9月14号'
-    [[ $Choice = 1 ]] && Download -chaoxing "8fc0f6f50f085b8606c67394ee242f85" "$1.zip" 4519 c3c2e77b78bea53f874ce65719ddbb4b "$1.zip"
+description='兼容安卓11 - 16'
+time='2026年3月19号'
+    [[ $Choice = 1 ]] && Download -chaoxing "66d2575a254ac3306dca5f62f2f84de5" "$1.zip" 4512 d53611d9563c043f8ada51725842330e "$1.zip"
 ;;
 
 Remove_Temperature_Control)
